@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on like minded people
-- 📫 How to reach me milten.sunny@gmail.com
+- 📫 How to reach me contact@miltensunny.in
 
 <!---
 miltensunny/miltensunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
